@@ -1,0 +1,31 @@
+{
+  "title": "AutoCraft - Automação de Craft para Path of Exile",
+  "branchName": "master",
+  "stories": [
+    {
+      "id": "US-001",
+      "title": "Estrutura base do projeto e dependências",
+      "passes": false
+    },
+    {
+      "id": "US-002",
+      "title": "Função de reconhecimento de imagem na tela",
+      "passes": false
+    },
+    {
+      "id": "US-003",
+      "title": "Função de craft",
+      "passes": false
+    },
+    {
+      "id": "US-004",
+      "title": "Interface gráfica com botões",
+      "passes": false
+    },
+    {
+      "id": "US-005",
+      "title": "Empacotamento como executável",
+      "passes": false
+    }
+  ]
+}
