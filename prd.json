@@ -5,27 +5,27 @@
     {
       "id": "US-001",
       "title": "Estrutura base do projeto e dependências",
-      "passes": false
+      "passes": true
     },
     {
       "id": "US-002",
       "title": "Função de reconhecimento de imagem na tela",
-      "passes": false
+      "passes": true
     },
     {
       "id": "US-003",
       "title": "Função de craft",
-      "passes": false
+      "passes": true
     },
     {
       "id": "US-004",
       "title": "Interface gráfica com botões",
-      "passes": false
+      "passes": true
     },
     {
       "id": "US-005",
       "title": "Empacotamento como executável",
-      "passes": false
+      "passes": true
     }
   ]
 }
