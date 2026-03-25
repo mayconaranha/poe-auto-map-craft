@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+*.log
+autocraft_config.json
+autocraft_log.txt
+debug_*.png
+prd.json
+progress.txt
+tasks/
+image/*.png
